@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hanko_testing/static/css/main.12760d3c.css",
-    "main.js": "/hanko_testing/static/js/main.0d019cbf.js",
+    "main.js": "/hanko_testing/static/js/main.8a2aaf8a.js",
     "static/js/453.0b5c428b.chunk.js": "/hanko_testing/static/js/453.0b5c428b.chunk.js",
     "index.html": "/hanko_testing/index.html",
     "main.12760d3c.css.map": "/hanko_testing/static/css/main.12760d3c.css.map",
-    "main.0d019cbf.js.map": "/hanko_testing/static/js/main.0d019cbf.js.map",
+    "main.8a2aaf8a.js.map": "/hanko_testing/static/js/main.8a2aaf8a.js.map",
     "453.0b5c428b.chunk.js.map": "/hanko_testing/static/js/453.0b5c428b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12760d3c.css",
-    "static/js/main.0d019cbf.js"
+    "static/js/main.8a2aaf8a.js"
   ]
 }
